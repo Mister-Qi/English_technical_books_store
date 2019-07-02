@@ -1,0 +1,64 @@
+﻿Spring Microservices in Action
+
+Spring 5 Recipes: A Problem-Solution Approach
+
+Learning Spring Boot 2.0
+
+Cloud Native Java
+
+Pro Spring 5
+
+Spring in Action
+
+
+Code Complete: A Practical Handbook of Software Construction, Second Edition
+
+Clean Code: A Handbook of Agile Software Craftsmanship
+
+• Code Complete 
+• Clean Code 
+• Agile Software Development, Principles, Patterns, and Practices 
+• Design Patterns: Elements of Reusable Object-Oriented Software 
+• Testing Computer Software 
+• Introduction to Algorithms 
+• Patterns of Enterprise Application Architecture
+• Refactoring: Improving the Design of Existing Code
+• Working Effectively With Legacy Code
+• Refactoring to Patterns
+• Soft Skills: The Software Developer’s Life Manual
+• The Pragmatic Programmer: From Journeyman to Master
+• The Passionate Programmer: Creating a Remarkable Career in Software Development
+• How To Win Friends & Influence People
+• As a Man Thinketh
+• Maximum Achievement: Strategies and Skills That Will Unlock Your Hidden Powers to Succeed
+• How to Fail at Almost Everything and Still Win Big: Kind of the Story of My Life
+• God’s Debris
+• Code: The Hidden Language of Computer Hardware and Software
+• Structure and Interpretation of Computer Programs
+• The Art of Computer Programming
+• Compilers: Principles, Techniques, and Tools (Second Edition)
+• Godel, Escher, Bach: An Eternal Golden Braid
+• Magic 2.0 Series
+• The Martian
+• Snow Crash
+• The Obstacle is the Way
+• The 10x Rule
+• Be Obsessed or be Average
+• The War of Art
+
+
+The Hackers Playbook 3
+Rtfm: Red Team Field Manual
+Hacking: The Art of Exploitation, 2nd Edition
+The Web Application Hacker’s Handbook: Finding and Exploiting Security Flaws
+Advanced Penetration Testing: Hacking the World’s Most Secure Networks
+
+-- Oreilly Books
+Tomcat: The Definitive Guide 2
+Continuous Enterprise Development in Java
+Net Beans
+Just Spring Integration
+Just Hibernate
+Modular Cloud Apps with OSGI
+Gradle
+Cloud Native Java
