@@ -1,6 +1,6 @@
 # english_technical_books_store
 English technical books for self learning
-## currently involved technology stack
+## currently involved technology book stack
 1. J2ee EJB to Spring
 2. Python
 3. Java technology - I/O, JVM, NI/O, Netty
