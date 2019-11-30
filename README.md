@@ -36,24 +36,24 @@ English technical books resources
 * Java Concurrency in Practice
 #### 9.Python
 * Python Crash Course
-#### 9. Security
+#### 10. Security
 * Hacking Web Application
 * Hacking - The Art of Exploitation
 * Penetration Testing - A Hands on Introduction to Hacking
 * The Web Application Hackers Handbook
-#### 10. Spring Series
+#### 11. Spring Series
 * Spring Batch in Action
 * Spring Boot in Action
 * Spring Microservices in Action
 * Spring in Action
 * Spring Data Programming - Cookbook
 * Spring Webflow Reference
-#### 11. Unix Core and Programming
+#### 12. Unix Core and Programming
 * Advanced Programming in UNIX Environment-Volume3
 * Understanding Linux Kernel
 * UNIX Network Programming - Volume1
 * UNIX Network Programming - Volume2
-#### 12. Version Control
+#### 13. Version Control
 * Maven - The Complete Reference
 * Pro Git
 
