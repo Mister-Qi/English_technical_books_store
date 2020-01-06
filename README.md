@@ -103,8 +103,8 @@ English technical books resources
 * Pro Git
 
 #### Unsorted
-O'Reilly Tomcat The Definitive Guide (2nd Edition).pdf
-Complete NGINX Cookbook.pdf
-Design Patterns-Elements of Reusable Object-Oriented Software.pdf
-Distributed Systems-Concepts and Practice - by George Coulouris.pdf
+* O'Reilly Tomcat The Definitive Guide (2nd Edition).pdf
+* Complete NGINX Cookbook.pdf
+* Design Patterns-Elements of Reusable Object-Oriented Software.pdf
+* Distributed Systems-Concepts and Practice - by George Coulouris.pdf
 
