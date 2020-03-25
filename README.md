@@ -22,6 +22,11 @@ English technical books resources
 #### 4. C Language
 * C++ In Action
 * Practical C++ Programming
+* C Primer Plus 6th
+* C++ Primer
+* C++ Primer Plus
+* Expert C Programming - Deep C Secrets
+* Understanding and using C-Pointers
 #### 5. Code Quality
 * Clean Code-A Handbook of Agile Software Craftsmanship
 * Code Complete 2th Edition
@@ -56,6 +61,7 @@ English technical books resources
 * MongoDB in Action 2nd-Edition.pdf
 * Netty in Action.pdf
 * Redis in Action.pdf
+* PowerShell in Depth
 #### 11. Java
 * Advanced Design and Implementation of Virtual Machines
 * Effective Java
@@ -63,6 +69,9 @@ English technical books resources
 * Java IO
 * Java Version History.pdf
 * Java Concurrency in Practice
+* Domain Driven Design
+* Cloud Native Java
+* Build Microservices
 #### 12. Python
 * Python Crash Course
 #### 13. Security
@@ -70,6 +79,9 @@ English technical books resources
 * Hacking - The Art of Exploitation
 * Penetration Testing - A Hands on Introduction to Hacking
 * The Web Application Hackers Handbook
+* Hacking Web Application
+* Hyper-V Security
+* JavaScript Security
 #### 14. Short Report
 * Container mechanics in rkt and Linux.pdf
 * ncc_group_understanding_hardening_linux_containers-1-1.pdf
@@ -83,6 +95,7 @@ English technical books resources
 * Data-Programming-Cookbook.pdf
 * webflow-reference.pdf
 * in.Action.3rd.pdf
+* Hands on Spring Security for Reatvice Applications
 #### 16. UML
 * Applying UML and Patterns.pdf
 * UML-diagrams.pdf
@@ -97,10 +110,24 @@ English technical books resources
 * UNIX and Linux System Administration Handbook.pdf
 * UNIX Network Programming(Volume1,3rd).pdf
 * UNIX Network Programming(Volume2,2rd Edition).pdf
+* Linux Kernel Development 3rd
 #### 18. Version Control
 * A successful Git branching model.pdf
 * Maven - The Complete Reference
 * Pro Git
+#### 19.Mathematical
+* A First Course in Mathematical Modeling-5th
+* Applied Statistics and Probablity for Engineers
+* Calculus 10th
+* Calculus Made Easy
+* Concrete Mathematics
+* Discrete Mathematics with Application
+* Linear Algebra and Its Application
+* Thomas' Calculus 13th
+#### 20.Thinking and Knowledge
+* On the top of Tids
+* In the Plex
+* Wealth Nations
 
 #### Unsorted
 * O'Reilly Tomcat The Definitive Guide (2nd Edition).pdf
