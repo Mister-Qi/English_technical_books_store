@@ -4,22 +4,7 @@ English technical books resources
 #### 1. Algorithms
 * Algorithms-4th Edition
 * Introduction to Algorithms-3th Edition
-#### 2. Ali Tech Books
-* Flutter in action-闲鱼最佳实践.pdf
-* Java开发手册-华山版.pdf
-* 中国Elastcsearch开发者调查报告.pdf
-* 人工智能应用实践...1575274826.pdf
-* 双11背后的支付宝技术升级.pdf
-* 蚂蚁金服在线金融技术解读.pdf
-* 达摩院开发者手册...1574906264.pdf
-* 长安十二时辰.pdf
-* 阿里工程师的自我修养.pdf
-#### 3. Books in Chinese
-* Docker从入门到实践
-* github入门
-* Spring Security-Practice
-* Tomcat Architecture
-#### 4. C Language
+#### 2. C Language
 * C++ In Action
 * Practical C++ Programming
 * C Primer Plus 6th
@@ -27,11 +12,11 @@ English technical books resources
 * C++ Primer Plus
 * Expert C Programming - Deep C Secrets
 * Understanding and using C-Pointers
-#### 5. Code Quality
+#### 3. Code Quality
 * Clean Code-A Handbook of Agile Software Craftsmanship
 * Code Complete 2th Edition
 * open-close principle
-#### 6. Computer System&Network and Virtualization
+#### 4. Computer System&Network and Virtualization
 * Computer Networks_ A Systems Approach, 3rd Edition-Petersen
 * Computer System_EN
 * Computer-Organization-And-Design(Hardware_Software interface)-5th-Ed-2014
@@ -40,23 +25,23 @@ English technical books resources
 * TCP IP Illustrated Volume 1
 * TCP IP Illustrated Volume 2
 * Virtualization Essentials
-#### 7.Database
+#### 5.Database
 * Database system concepts-6th edition
-#### 8. English Grammar
+#### 6. English Grammar
 * Basic-English-Grammar-1.pdf
 * collins_cobuild_english_grammar_collins_digital_edition.pdf
 * fundamentals-of-english-grammar.pdf
 * The-elements-of-style.pdf
-#### 9. Golang
+#### 7. Golang
 * Concurrency in Go：Tools and Techniques for Developers.pdf
 * The Go Programming Language - Donovan, Alan A. A. & Kernigha_6127.pdf
-#### 10. Head First Series
+#### 8. Head First Series
 * Head First Design Patterns
 * Head First C
 * Head First Data Analysis
 * Head First EJB
 * Head First Statistics
-#### 11. In Action
+#### 9. In Action
 * Docker-in-Action
 * Elasticsearch in Action
 * gradle-in-action
@@ -67,7 +52,7 @@ English technical books resources
 * Netty in Action
 * Redis in Action
 * PowerShell in Depth
-#### 12. Java
+#### 10. Java
 * Advanced_Design_and_Implementation_of_Virtual_Machines
 * Building_Microservices
 * Cloud Native Java
@@ -82,7 +67,7 @@ English technical books resources
 * Java_concurrency_in_practice
 * Mastering_Elasticsearch_2nd
 * O'Reilly Tomcat The Definitive Guide (2nd Edition)
-#### 13.Mathematical
+#### 11.Mathematical
 * A First Course in Mathematical Modeling [5th Edition]
 * Algebra And Trigonometry-LR
 * Applied Statistics and Probability for Engineers
@@ -97,9 +82,9 @@ English technical books resources
 * Thomas' Calculus 13th [Solutions]
 * Thomas' Calculus 13th
 * Trigonometry A Complete Introduction by Hugh Neill
-#### 14. Python
+#### 12. Python
 * Python Crash Course
-#### 15. Security
+#### 13. Security
 * Hacking Web Application
 * Hacking - The Art of Exploitation
 * Penetration Testing - A Hands on Introduction to Hacking
@@ -107,14 +92,14 @@ English technical books resources
 * Hacking Web Application
 * Hyper-V Security
 * JavaScript Security
-#### 16. Short Report
+#### 14. Short Report
 * Container mechanics in rkt and Linux
 * ncc_group_understanding_hardening_linux_containers-1-1
 * Spin locks and Contention
 * virtualization-Cambrige University
-#### 17.Specification
+#### 15.Specification
 * servlet-3_0-final-spec
-#### 18. Spring Series
+#### 16. Spring Series
 * Apress.Expert.Spring.MVC.and.Web.Flow.Feb.2006
 * Hands on Spring Security for Reactive Applications
 * Spring Batch in Action
@@ -125,11 +110,11 @@ English technical books resources
 * spring-webflow-reference
 * Spring.in.Action.3rd
 * Spring.Microservices.in.Action2017
-#### 19.Thinking and Knowledge
+#### 17.Thinking and Knowledge
 * On the top of Tids
 * In the Plex
 * Wealth Nations
-#### 20. UML and Pattern
+#### 18. UML and Pattern
 * Applying UML and Patterns_2th_Ed
 * Applying_UML_and_Patterns_3rd_Ed.Craig_Larman_(2004)
 * Design Pattern-Examples
@@ -138,7 +123,7 @@ English technical books resources
 * Distributed Systems-Concepts and Practice - by George Coulouris
 * Patterns of Enterprise Application Architecture - Martin Fowler
 * UML-diagrams
-#### 21. Unix Core and Programming
+#### 19. Unix Core and Programming
 * Advanced Programming in UNIX Environment(Volume3,3rd Edition).pdf
 * Essential System Administration.pdf
 * How Linux Works What Every Superuser Should Know.pdf
@@ -150,7 +135,7 @@ English technical books resources
 * UNIX Network Programming(Volume1,3rd).pdf
 * UNIX Network Programming(Volume2,2rd Edition).pdf
 * Linux Kernel Development 3rd
-#### 22. Version Control
+#### 20. Version Control
 * A successful Git branching model
 * Apache Maven Cookbook
 * Gradle in Action
