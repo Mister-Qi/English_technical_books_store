@@ -68,20 +68,7 @@ English technical books resources
 * Mastering_Elasticsearch_2nd
 * O'Reilly Tomcat The Definitive Guide (2nd Edition)
 #### 11.Mathematical
-* A First Course in Mathematical Modeling [5th Edition]
-* Algebra And Trigonometry-LR
-* Applied Statistics and Probability for Engineers
-* Calculus 10th
-* Calculus Made Easy
-* Concrete Mathematics
-* Discrete-Mathematics-with-Application-by-Susanna-S-Epp
-* Engineering Mathematics, 4th ed
-* Linear Algebra and Its Applications
-* Plane Trigonometry and Vector Geometry-Gabriel Nagy
-* Signals And Systems
-* Thomas' Calculus 13th [Solutions]
-* Thomas' Calculus 13th
-* Trigonometry A Complete Introduction by Hugh Neill
+* -
 #### 12. Python
 * Python Crash Course
 #### 13. Security
