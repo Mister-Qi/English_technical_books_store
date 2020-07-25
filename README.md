@@ -21,7 +21,9 @@ English technical books resources
 * Computer System_EN
 * Computer-Organization-And-Design(Hardware_Software interface)-5th-Ed-2014
 * How computer work-The Evolution of Technology
+* Network_Performance_Engineering__A_Handbook
 * Operating_System_by_Willam_Stalling
+* Signals And Systems
 * TCP IP Illustrated Volume 1
 * TCP IP Illustrated Volume 2
 * Virtualization Essentials
@@ -42,16 +44,22 @@ English technical books resources
 * Head First EJB
 * Head First Statistics
 #### 9. In Action
+* ActiveMQ in Action
 * Docker-in-Action
 * Elasticsearch in Action
-* gradle-in-action
+* Enterprise OSGI in action
+* JUnit in Action
 * Kotlin_in_Action_(2017)
-* Kubernetes-in-Action
+* Kubernetes in Action
+* Log4j manual
 * Lucene in Actrion
+* Manning - AspectJ in Action
+* Manning - JMX in Action
 * MongoDB in Action 2nd-Edition
 * Netty in Action
-* Redis in Action
+* OSGi in Action
 * PowerShell in Depth
+* Redis in Action
 #### 10. Java
 * Advanced_Design_and_Implementation_of_Virtual_Machines
 * Building_Microservices
@@ -127,6 +135,7 @@ English technical books resources
 * Apache Maven Cookbook
 * Gradle in Action
 * Maven - The Complete Reference
+* Maven-The Definitive Guide
 * Pro Git
 
 #### Unsorted
