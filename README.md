@@ -5,13 +5,18 @@ English technical books resources
 * Algorithms-4th Edition
 * Introduction to Algorithms-3th Edition
 #### 2. C Language
-* C++ In Action
-* Practical C++ Programming
-* C Primer Plus 6th
+* C Primer Plus, 6th Edition
+* C++ Primer Plus 6th Edition
 * C++ Primer
-* C++ Primer Plus
+* C++.In.Action
 * Expert C Programming - Deep C Secrets
-* Understanding and using C-Pointers
+* Fundamentals of C++ Programming
+* Fundamentals-of-Computer-Programming-with-C#-v2013
+* Modern X86 Assembly Language Programming-Daniel_Kusswurm
+* Practical C++ Programming
+* Programming from the Ground Up
+* The C Programming Language
+* understanding-and-using-c-pointers
 #### 3. Code Quality
 * Clean Code-A Handbook of Agile Software Craftsmanship
 * Code Complete 2th Edition
@@ -26,41 +31,24 @@ English technical books resources
 * Signals And Systems
 * TCP IP Illustrated Volume 1
 * TCP IP Illustrated Volume 2
+* TCP IP Network Administration 3rd Edition
 * Virtualization Essentials
 #### 5.Database
 * Database system concepts-6th edition
-#### 6. English Grammar
-* Basic-English-Grammar-1.pdf
-* collins_cobuild_english_grammar_collins_digital_edition.pdf
-* fundamentals-of-english-grammar.pdf
-* The-elements-of-style.pdf
-#### 7. Golang
-* Concurrency in Go：Tools and Techniques for Developers.pdf
-* The Go Programming Language - Donovan, Alan A. A. & Kernigha_6127.pdf
-#### 8. Head First Series
+#### 6. Golang
+* A very short tutorial：effective-go
+* An Introduction to Programming in Go
+* Concurrency in Go：Tools and Techniques for Developers
+* Go-in-Action
+* Introducing Go-build reliable,scalable programs
+* The Go Programming Language
+#### 7. Head First Series
 * Head First Design Patterns
 * Head First C
 * Head First Data Analysis
 * Head First EJB
 * Head First Statistics
-#### 9. In Action
-* ActiveMQ in Action
-* Docker-in-Action
-* Elasticsearch in Action
-* Enterprise OSGI in action
-* JUnit in Action
-* Kotlin_in_Action_(2017)
-* Kubernetes in Action
-* Log4j manual
-* Lucene in Actrion
-* Manning - AspectJ in Action
-* Manning - JMX in Action
-* MongoDB in Action 2nd-Edition
-* Netty in Action
-* OSGi in Action
-* PowerShell in Depth
-* Redis in Action
-#### 10. Java
+#### 8. Java
 * Advanced_Design_and_Implementation_of_Virtual_Machines
 * Building_Microservices
 * Cloud Native Java
@@ -75,11 +63,9 @@ English technical books resources
 * Java_concurrency_in_practice
 * Mastering_Elasticsearch_2nd
 * O'Reilly Tomcat The Definitive Guide (2nd Edition)
-#### 11.Mathematical
-* -
-#### 12. Python
+#### 9. Python
 * Python Crash Course
-#### 13. Security
+#### 10. Security
 * Hacking Web Application
 * Hacking - The Art of Exploitation
 * Penetration Testing - A Hands on Introduction to Hacking
@@ -87,14 +73,9 @@ English technical books resources
 * Hacking Web Application
 * Hyper-V Security
 * JavaScript Security
-#### 14. Short Report
-* Container mechanics in rkt and Linux
-* ncc_group_understanding_hardening_linux_containers-1-1
-* Spin locks and Contention
-* virtualization-Cambrige University
-#### 15.Specification
+#### 11.Specification
 * servlet-3_0-final-spec
-#### 16. Spring Series
+#### 12. Spring Series
 * Apress.Expert.Spring.MVC.and.Web.Flow.Feb.2006
 * Hands on Spring Security for Reactive Applications
 * Spring Batch in Action
@@ -105,11 +86,7 @@ English technical books resources
 * spring-webflow-reference
 * Spring.in.Action.3rd
 * Spring.Microservices.in.Action2017
-#### 17.Thinking and Knowledge
-* On the top of Tids
-* In the Plex
-* Wealth Nations
-#### 18. UML and Pattern
+#### 13. UML and Pattern
 * Applying UML and Patterns_2th_Ed
 * Applying_UML_and_Patterns_3rd_Ed.Craig_Larman_(2004)
 * Design Pattern-Examples
@@ -118,7 +95,7 @@ English technical books resources
 * Distributed Systems-Concepts and Practice - by George Coulouris
 * Patterns of Enterprise Application Architecture - Martin Fowler
 * UML-diagrams
-#### 19. Unix Core and Programming
+#### 14. Unix Core and Programming
 * Advanced Programming in UNIX Environment(Volume3,3rd Edition).pdf
 * Essential System Administration.pdf
 * How Linux Works What Every Superuser Should Know.pdf
@@ -130,14 +107,11 @@ English technical books resources
 * UNIX Network Programming(Volume1,3rd).pdf
 * UNIX Network Programming(Volume2,2rd Edition).pdf
 * Linux Kernel Development 3rd
-#### 20. Version Control
+#### 15. Version Control
 * A successful Git branching model
 * Apache Maven Cookbook
 * Gradle in Action
 * Maven - The Complete Reference
 * Maven-The Definitive Guide
 * Pro Git
-
-#### Unsorted
-* Complete NGINX Cookbook.pdf
 
