@@ -21,6 +21,7 @@ English technical books resources
 * Clean Code-A Handbook of Agile Software Craftsmanship
 * Code Complete 2th Edition
 * open-close principle
+* Working Effectively with Legacy Code
 #### 4. Computer System&Network and Virtualization
 * Computer Networks_ A Systems Approach, 3rd Edition-Petersen
 * Computer System_EN
@@ -35,6 +36,8 @@ English technical books resources
 * Virtualization Essentials
 #### 5.Database
 * Database system concepts-6th edition
+* Expert Oracle Database Architecture
+* High.Performance.MySQL.Optimization.Backups.Replication.And.More.2nd.Edition
 #### 6. Golang
 * A very short tutorial：effective-go
 * An Introduction to Programming in Go
@@ -65,15 +68,23 @@ English technical books resources
 * O'Reilly Tomcat The Definitive Guide (2nd Edition)
 #### 9. Python
 * Python Crash Course
+* Python for Data Analysis 2nd-Edition
 #### 10. Security
-* Hacking Web Application
-* Hacking - The Art of Exploitation
-* Penetration Testing - A Hands on Introduction to Hacking
-* The Web Application Hackers Handbook
-* Hacking Web Application
+* EN-Hacking Web Applications
+* Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson
 * Hyper-V Security
 * JavaScript Security
+* Penetration Testing - A hands-on introduction to Hacking
+* The Manager's Guide to Web Application Security
+* The.Web.Application.Hackers.Handbook.Oct.2007
 #### 11.Specification
+* jls14
+* jls8
+* JSR 338-JavaPersistence API
+* jstat - Java Virtual Machine Statistics Monitoring Tool
+* jvms14
+* jvms8
+* portlet-1_0-fr-spec
 * servlet-3_0-final-spec
 #### 12. Spring Series
 * Apress.Expert.Spring.MVC.and.Web.Flow.Feb.2006
@@ -96,17 +107,19 @@ English technical books resources
 * Patterns of Enterprise Application Architecture - Martin Fowler
 * UML-diagrams
 #### 14. Unix Core and Programming
-* Advanced Programming in UNIX Environment(Volume3,3rd Edition).pdf
-* Essential System Administration.pdf
-* How Linux Works What Every Superuser Should Know.pdf
-* Learning Unix For OS X Mountain Lion.pdf
-* Solaris 10 - The Complete Reference.pdf
-* The Unix Programming Environment-kernighan-pike.pdf
-* Understanding.Linux.Kernel.pdf
-* UNIX and Linux System Administration Handbook.pdf
-* UNIX Network Programming(Volume1,3rd).pdf
-* UNIX Network Programming(Volume2,2rd Edition).pdf
-* Linux Kernel Development 3rd
+* Advanced Programming in UNIX Environment(Volume3,3rd Edition)
+* Essential System Administration
+* How Linux Works What Every Superuser Should Know
+* Learning Unix For OS X Mountain Lion
+* Linux Kernel Development, 3rd Edition
+* Professional Linux Kernel Architecture-WolfgangMauerer
+* Solaris 10 - The Complete Reference
+* The Linux Command Line
+* The Unix Programming Environment-kernighan-pike
+* Understanding.Linux.Kernel
+* UNIX and Linux System Administration Handbook
+* UNIX Network Programming(Volume1,3rd)
+* UNIX Network Programming(Volume2,2rd Edition)
 #### 15. Version Control
 * A successful Git branching model
 * Apache Maven Cookbook
