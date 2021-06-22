@@ -34,13 +34,8 @@ English technical books resources
    * TCP IP Illustrated Volume 2
    * TCP IP Network Administration 3rd Edition
    * Virtualization Essentials
-  
-4. Database
-   * Database system concepts-6th edition
-   * Expert Oracle Database Architecture
-   * High.Performance.MySQL.Optimization.Backups.Replication.And.More.2nd.Edition
-  
-5. Golang
+    
+4. Golang
    * A very short tutorial：effective-go
    * An Introduction to Programming in Go
    * Concurrency in Go：Tools and Techniques for Developers
@@ -48,14 +43,14 @@ English technical books resources
    * Introducing Go-build reliable,scalable programs
    * The Go Programming Language
   
-6. Head First Series
+5. Head First Series
    * Head First Design Patterns
    * Head First C
    * Head First Data Analysis
    * Head First EJB
    * Head First Statistics
   
-7. Java
+6. Java
    * Advanced_Design_and_Implementation_of_Virtual_Machines
    * Building_Microservices
    * Cloud Native Java
@@ -71,11 +66,11 @@ English technical books resources
    * Mastering_Elasticsearch_2nd
    * O'Reilly Tomcat The Definitive Guide (2nd Edition)
   
-8. Python
+7. Python
    * Python Crash Course
    * Python for Data Analysis 2nd-Edition
   
-9.  Security
+8.  Security
     * EN-Hacking Web Applications
     * Hacking- The Art of Exploitation (2nd ed. 2008) - Erickson
     * Hyper-V Security
@@ -84,7 +79,7 @@ English technical books resources
     * The Manager's Guide to Web Application Security
     * The.Web.Application.Hackers.Handbook.Oct.2007
   
-10. Specification
+9. Specification
     * jls14
     * jls8
     * JSR 338-JavaPersistence API
@@ -94,7 +89,7 @@ English technical books resources
     * portlet-1_0-fr-spec
     * servlet-3_0-final-spec
   
-11. Spring Series
+10. Spring Series
     * Apress.Expert.Spring.MVC.and.Web.Flow.Feb.2006
     * Hands on Spring Security for Reactive Applications
     * Spring Batch in Action
@@ -106,7 +101,7 @@ English technical books resources
     * Spring.in.Action.3rd
     * Spring.Microservices.in.Action2017
   
-12. UML and Pattern
+11. UML and Pattern
     * Applying UML and Patterns_2th_Ed
     * Applying_UML_and_Patterns_3rd_Ed.Craig_Larman_(2004)
     * Design Pattern-Examples
@@ -116,7 +111,7 @@ English technical books resources
     * Patterns of Enterprise Application Architecture - Martin Fowler
     * UML-diagrams
   
-13. Unix Core and Programming
+12. Unix Core and Programming
     * Advanced Programming in UNIX Environment(Volume3,3rd Edition)
     * Essential System Administration
     * How Linux Works What Every Superuser Should Know
@@ -131,7 +126,7 @@ English technical books resources
     * UNIX Network Programming(Volume1,3rd)
     * UNIX Network Programming(Volume2,2rd Edition)
   
-14. Version Control
+13. Version Control
     * A successful Git branching model
     * Apache Maven Cookbook
     * Gradle in Action
