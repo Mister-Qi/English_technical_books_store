@@ -134,3 +134,28 @@ English technical books resources
     * Maven-The Definitive Guide
     * Pro Git
 
+---
+> C++ Primer/Head First Design Patterns/Hea First C were managed by Git Large Storage,
+> to pull such file, need install `git lfs`
+* set up Git LFS per user account:
+```bash
+git lfs install
+```
+* track file/or file types you'd like Git LFS to manage:
+```bash
+git lfs track "*.pdf"
+```
+* make sure `.gitattributes` is tracked:
+```bash
+git add .gitattributes
+```
+* add large file and commit them as usual, now Git LFS will manage the large file
+```bash
+git add "C++ Primer.pdf"
+git commit -m "Add large pdf file"
+git push origin main
+```
+* to pull/download large file managed by Git LFS
+```bash
+git lfs pull origin master
+```
